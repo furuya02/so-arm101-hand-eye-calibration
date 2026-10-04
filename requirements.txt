@@ -1,0 +1,6 @@
+numpy>=1.26
+opencv-python>=4.10
+scipy>=1.11
+matplotlib>=3.8
+# 実機で姿勢ペアを集めるときだけ必要
+# lerobot[feetech]==0.6.1

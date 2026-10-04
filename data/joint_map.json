@@ -1,0 +1,5 @@
+{
+  "_comment": "LeRobot の関節角 [deg] を URDF の関節角に変換する。urdf_rad = radians(sign * (lerobot_deg - offset_deg))。実機で確認して書き換えること",
+  "offset_deg": [0, 0, 0, 0, 0],
+  "sign": [1, 1, 1, 1, 1]
+}

@@ -1,0 +1,6 @@
+{
+  "_comment": "カメラの内部パラメータ（cv2.calibrateCamera の結果）。intrinsics.json にコピーして値を書き換える",
+  "camera_matrix": [[600.0, 0, 320], [0, 600.0, 240], [0, 0, 1]],
+  "dist_coeffs": [0, 0, 0, 0, 0],
+  "image_size": [640, 480]
+}

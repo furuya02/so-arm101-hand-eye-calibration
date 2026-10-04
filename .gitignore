@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.DS_Store
+data/intrinsics.json
+data/pairs/
+data/clicks.json
+data/cam2base.json
+data/overlay.png
